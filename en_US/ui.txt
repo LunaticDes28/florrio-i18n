@@ -1,4 +1,6 @@
 UI/Language/Name=English (US)
+# These are the translators that worked on this translation. Separate with <n/>
+UI/Language/Credits=
 
 UI/Title/Loading=Loading...
 UI/Title/Connecting=Connecting...
