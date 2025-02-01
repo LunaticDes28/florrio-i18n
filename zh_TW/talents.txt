@@ -221,9 +221,9 @@ Talents/second_chance2/Name=續命術
 Talents/second_chance2/Description=不死時長提升至 {0:tooltip}秒，同時觸發冷卻減低至 {1:tooltip}秒。
 
 Talents/magnetism/Name=磁場
-Talents/magnetism/Description=存活時拾取掉落物的範圍提升 {0}。
+Talents/magnetism/Description=存活時吸取掉落物的範圍提升 {0}。
 
-Talents/body_toxicity/Name=自體毒性
+Talents/body_toxicity/Name=毒素沉澱
 Talents/body_toxicity/Description=自身接觸敵人時，在 {1:tooltip}秒 內施加等同於<n/>{0:tooltip}倍 {#Flower/Attribute/BodyDamageNoColon} 的 {#Attribute/PoisonNoColon} 傷害。
 
 Talents/poison/Name=製毒術
@@ -254,7 +254,7 @@ Talents/poison8/Name={#Talents/poison/Name}
 Talents/poison8/Description={#Talents/poison/Description}
 
 Talents/concentrated_poison/Name=濃縮配方
-Talents/concentrated_poison/Description=每秒的 {#Attribute/PoisonNoColon} 傷害提升 {0:perc}%.<n/>{#Attribute/PoisonNoColon} 的持續時間 減少 {1:perc}%。
+Talents/concentrated_poison/Description=每秒的 {#Attribute/PoisonNoColon} 傷害提升 {0:perc}%。<n/>{#Attribute/PoisonNoColon} 的持續時間減少 {1:perc}%。
 
 Talents/duplicator/Name=複製術
 Talents/duplicator/Description=任何擁有至少 {0:tooltip} 個複本的花瓣將增加 1 個複本。
