@@ -85,7 +85,7 @@ UI/Changelog/Bottom=更遠古的更改未能盡錄
 UI/Inventory/Title=背包
 UI/Inventory/Stack=堆疊
 UI/Inventory/Instructions=將欲裝備的花瓣移出背包
-UI/Inventory/Speed=速度
+UI/Inventory/Speed=轉速
 
 UI/Guild/Title=公會
 UI/Guild/NoGuild=你仍未加入公會
