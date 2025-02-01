@@ -221,7 +221,7 @@ Talents/second_chance2/Name=續命術
 Talents/second_chance2/Description=不死時長提升至 {0:tooltip}秒，同時觸發冷卻減低至 {1:tooltip}秒。
 
 Talents/magnetism/Name=磁場
-Talents/magnetism/Description=存活時捨取掉落物的範圍提升 {0}。
+Talents/magnetism/Description=存活時拾取掉落物的範圍提升 {0}。
 
 Talents/body_toxicity/Name=自體毒性
 Talents/body_toxicity/Description=自身接觸敵人時，在 {1:tooltip}秒 內施加等同於<n/>{0:tooltip}倍 {#Flower/Attribute/BodyDamageNoColon} 的 {#Attribute/PoisonNoColon} 傷害。
