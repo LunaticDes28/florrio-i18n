@@ -18,6 +18,6 @@ Maps/jungle/Name=叢林
 
 Maps/ocean/Name=海洋
 
-Maps/sewers/Name=下水道
+Maps/sewers/Name=廢水管道
 
 Maps/worm/Name=蠕蟲之腹
