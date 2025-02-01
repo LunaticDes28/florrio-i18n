@@ -60,13 +60,13 @@ Achievements/16/Name=合成师
 Achievements/16/Description=合成{#Rarities/{0}/Article}{#Rarities/{0}/Name}花瓣。
 
 Achievements/17/Name=安慰奖
-Achievements/17/Description=合成失败并损失{0}个花瓣。
+Achievements/17/Description=合成花瓣失败，并损失{0}个花瓣。
 
 Achievements/18/Name=安慰奖
-Achievements/18/Description=合成失败并损失{0}个{#Rarities/{1}/Name}花瓣。
+Achievements/18/Description=合成{#Rarities/{1}/Article}{#Rarities/{1}/Name}花瓣失败，并损失{0}个花瓣。
 
 Achievements/19/Name=安慰奖
-Achievements/19/Description=合成失败并损失{0}个{#Rarities/{1}/Name}花瓣。
+Achievements/19/Description=合成{#Rarities/{1}/Article}{#Rarities/{1}/Name}花瓣失败，并损失{0}个花瓣。
 
 Achievements/20/Name=挖掘者
 Achievements/20/Description=装备{#Petals/cutter/Name}。
@@ -135,7 +135,7 @@ Achievements/41/Name=征服者
 Achievements/41/Description=击败你的首个{#Rarities/{0}/Name}生物。
 
 Achievements/42/Name=去往何 方？！
-Achievements/42/Description=Visit the other plane.
+Achievements/42/Description=访问另一个维度里的不同世界。
 
 Achievements/43/Name=挑战者
 Achievements/43/Description=完成一个挑战。
@@ -227,19 +227,19 @@ Achievements/71/Description=花{0:time}欣赏大自然，同时不攻击任何�
 Achievements/72/Name=该上路了
 Achievements/72/Description=把一朵花送进冥界。
 
-Achievements/73/Name=百花凋零
+Achievements/73/Name=该上路了
 Achievements/73/Description=把{0}朵花送进冥界。
 
 Achievements/74/Name=起死回生
 Achievements/74/Description=被复活。
 
-Achievements/75/Name=救星
+Achievements/75/Name=是日救星
 Achievements/75/Description=复活一朵花。
 
-Achievements/76/Name=救世主
+Achievements/76/Name=是日救星
 Achievements/76/Description=复活{0}朵花。
 
-Achievements/77/Name=全视
+Achievements/77/Name=上帝视角
 Achievements/77/Description=装备{#Petals/{0}/Name}。
 
 Achievements/78/Name=弹治彼身
@@ -365,7 +365,7 @@ Achievements/117/Description=死于{0}种不同类型的生物。
 Achievements/118/Name=一无是处
 Achievements/118/Description=死于{0}种不同类型的生物。
 
-Achievements/119/Name=触碰
+Achievements/119/Name=适当其时
 Achievements/119/Description=触碰开发者。
 
 Achievements/120/Name=凌波微步

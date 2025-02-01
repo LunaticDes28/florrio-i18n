@@ -1,5 +1,5 @@
 UI/Language/Name=中文（简体）
-UI/Language/Credits=errosia<n/>Luai<n/>Nyar_7<n/>T1rth4r3<n/>XIANGLANGA<n/>XNOR
+UI/Language/Credits=CTTN<n/>errosia<n/>Luai2<n/>Nyar_7<n/>XIANGLANGA<n/>XNOR
 
 UI/Title/Loading=加载中……
 UI/Title/Connecting=连接中……

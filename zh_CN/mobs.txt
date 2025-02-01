@@ -65,10 +65,10 @@ Mobs/spider/Name=蜘蛛
 Mobs/spider/Description=吓人。
 
 Mobs/scorpion/Name=蝎子
-Mobs/scorpion/Description=<s val="1.5">真疼！</s>
+Mobs/scorpion/Description=它！会！蜇！人！
 
 Mobs/fire_ant_soldier/Name=火兵蚁
-Mobs/fire_ant_soldier/Description=这只蚂蚁火火火火火火火火火火火火火火火火火火了。
+Mobs/fire_ant_soldier/Description=这只蚂蚁着火火火火火火火火火火火火火火火火火火了。
 
 Mobs/fire_ant_burrow/Name=火蚁穴
 Mobs/fire_ant_burrow/Description=里面会有什么呢？
@@ -80,7 +80,7 @@ Mobs/bubble/Name=泡泡
 Mobs/bubble/Description=“啵”
 
 Mobs/bumble_bee/Name=熊蜂
-Mobs/bumble_bee/Description=<s val="1.5">要跑起来了</s>。
+Mobs/bumble_bee/Description=要 跑 起 来 了 ！
 
 Mobs/shell/Name=扇贝
 Mobs/shell/Description=这可不是那个广告牌。
@@ -99,7 +99,7 @@ Mobs/digger/Name=挖掘者
 Mobs/digger/Description=兄弟，走错游戏了。
 
 Mobs/sponge/Name=海绵
-Mobs/sponge/Description=鲍勃
+Mobs/sponge/Description=海绵-宝宝
 
 Mobs/leech/Name=水蛭
 Mobs/leech/Description=吸溜吸溜。
@@ -111,13 +111,13 @@ Mobs/dandelion/Name=蒲公英
 Mobs/dandelion/Description=蓬松。
 
 Mobs/fire_ant_baby/Name=火幼蚁
-Mobs/fire_ant_baby/Description=这只蚂蚁火火火火火火火火火火火火火火火火火火了。
+Mobs/fire_ant_baby/Description=这只蚂蚁着火火火火火火火火火火火火火火火火火火了。
 
 Mobs/fire_ant_worker/Name=火工蚁
-Mobs/fire_ant_worker/Description=这只蚂蚁火火火火火火火火火火火火火火火火火火了。
+Mobs/fire_ant_worker/Description=这只蚂蚁着火火火火火火火火火火火火火火火火火火了。
 
 Mobs/fire_ant_queen/Name=火蚁后
-Mobs/fire_ant_queen/Description=这只蚂蚁火火火火火火火火火火火火火火火火火火了。
+Mobs/fire_ant_queen/Description=这只蚂蚁着火火火火火火火火火火火火火火火火火火了。
 
 Mobs/ant_egg/Name=蚁卵
 Mobs/ant_egg/Description=还不是一只蚂蚁，但是可能快了。
@@ -126,10 +126,10 @@ Mobs/fire_ant_egg/Name=火蚁卵
 Mobs/fire_ant_egg/Description=这只蚂蚁暂时还没火。
 
 Mobs/fly/Name=苍蝇
-Mobs/fly/Description=嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡。
+Mobs/fly/Description=嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡
 
 Mobs/leafbug/Name=叶虫
-Mobs/leafbug/Description=并非树叶。
+Mobs/leafbug/Description=它不是一片树叶，是一只虫子。
 
 Mobs/mantis/Name=螳螂
 Mobs/mantis/Description=你最好祈祷不成为它的晚餐。
@@ -138,10 +138,10 @@ Mobs/termite_baby/Name=白幼蚁
 Mobs/termite_baby/Description=虽软弱无力，却有远大的梦想。<n/>这些生物通过某种方式被连接了起来。
 
 Mobs/termite_worker/Name=白工蚁
-Mobs/termite_worker/Description=脾气有点暴躁，可能是一直在工作的缘故。<n/>这些生物看起来因为某种原因被连接了起来。
+Mobs/termite_worker/Description=脾气有点暴躁，可能是一直在工作的缘故。<n/>这些生物通过某种方式被连接了起来。
 
 Mobs/termite_soldier/Name=白兵蚁
-Mobs/termite_soldier/Description=有一双翅膀并随时准备使用它们。<n/>这些生物看起来因为某种原因被连接了起来。
+Mobs/termite_soldier/Description=有一双翅膀并随时准备使用它们。<n/>这些生物通过某种方式被连接了起来。。
 
 Mobs/termite_overmind/Name=白蚁主宰者
 Mobs/termite_overmind/Description=运筹帷幄之中。
@@ -156,7 +156,7 @@ Mobs/bush/Name=灌木丛
 Mobs/bush/Description=可别小看我。
 
 Mobs/roach/Name=蟑螂
-Mobs/roach/Description=要<s val="1.5">加速</s>了……直到累了。
+Mobs/roach/Description=要 加 速 了……直到它累了。
 
 Mobs/moth/Name=飞蛾
 Mobs/moth/Description=容易受惊，请对它们好点。
@@ -170,7 +170,7 @@ Mobs/beetle_hel/Description=在异域诞生的亡灵。
 Mobs/beetle_hel/Spawn=大地之下，位面之间，异界的不祥波动悄然涌来……
 
 Mobs/wasp/Name=胡蜂
-Mobs/wasp/Description=它们<s val="1.5">生气</s>了。
+Mobs/wasp/Description=它们 生 气 了。
 
 Mobs/dummy/Name=训练假人
 Mobs/dummy/Description=它怎么跑到你的图鉴里的？
@@ -194,7 +194,7 @@ Mobs/wasp_hel/Spawn=大地之下，位面之间，异界的不祥波动悄然涌
 Mobs/trader/Name=商人
 
 Mobs/gambler/Name=赌徒
-Mobs/gambler/Description=<s val="1.5">你</s>也可能变成这样。
+Mobs/gambler/Description=<s val="1.5">你</s>也有可能变成这样。
 Mobs/gambler/Spawn=耳畔旁，微微回荡着不知源头的飘渺呢喃…… “就……再来一局吧……”
 
 Mobs/oracle/Name=神谕者

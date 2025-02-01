@@ -176,7 +176,7 @@ Petals/peas/Description=“嘭”地爆开。
 
 Petals/stick/Name=树枝
 Petals/stick/FullName=神秘的树枝
-Petals/stick/Description=神秘的树枝，能动用风的力量。
+Petals/stick/Description=神秘的树枝，能召唤风的力量。
 
 Petals/clover/Name=幸运草
 Petals/clover/FullName=幸运草
