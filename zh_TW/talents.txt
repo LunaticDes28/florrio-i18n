@@ -263,7 +263,7 @@ Talents/antennae1/Name=感知
 Talents/antennae1/Description=視野提升 {0:perc}%。
 
 Talents/antennae2/Name=感知
-Talents/antennae2/Description=視野累積提升 {0:perc}%。
+Talents/antennae2/Description=視野累積提升 {1:perc}%。
 
 Talents/antennae3/Name=感知
-Talents/antennae3/Description=視野累積提升 {0:perc}%。
+Talents/antennae3/Description=視野累積提升 {1:perc}%。
