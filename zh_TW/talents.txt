@@ -1,5 +1,5 @@
-Talents/crafting/Name=Crafting
-Talents/crafting/Description=Unlocks the ability to craft <c val="{0:rarity:color}">{#Rarities/{0:rarity}/Name}</c> petals
+Talents/crafting/Name=合成
+Talents/crafting/Description=解鎖合成 <c val="{0:rarity:color}">{#Rarities/{0:rarity}/Name}</c> 花瓣的能力。
 
 Talents/crafting_unusual/Name={#Talents/crafting/Name}
 Talents/crafting_unusual/Description={#Talents/crafting/Description}
@@ -22,23 +22,23 @@ Talents/crafting_ultra/Description={#Talents/crafting/Description}
 Talents/crafting_super/Name={#Talents/crafting/Name}
 Talents/crafting_super/Description={#Talents/crafting/Description}
 
-Talents/inventory6/Name=Inventory
-Talents/inventory6/Description=Enables a 6th loadout slot to equip petals.
+Talents/inventory6/Name=裝備欄
+Talents/inventory6/Description=啟用第6個花瓣的裝備槽位。
 
-Talents/inventory7/Name=Inventory
-Talents/inventory7/Description=Enables a 7th loadout slot to equip petals.
+Talents/inventory7/Name=裝備欄
+Talents/inventory7/Description=啟用第7個花瓣的裝備槽位。
 
-Talents/inventory8/Name=Inventory
-Talents/inventory8/Description=Enables a 8th loadout slot to equip petals.
+Talents/inventory8/Name=裝備欄
+Talents/inventory8/Description=啟用第8個花瓣的裝備槽位。
 
-Talents/inventory9/Name=Inventory
-Talents/inventory9/Description=Enables a 9th loadout slot to equip petals.
+Talents/inventory9/Name=裝備欄
+Talents/inventory9/Description=啟用第9個花瓣的裝備槽位。
 
-Talents/inventory10/Name=Inventory
-Talents/inventory10/Description=Enables a 10th loadout slot to equip petals.
+Talents/inventory10/Name=裝備欄
+Talents/inventory10/Description=啟用第10個花瓣的裝備槽位。
 
-Talents/health/Name=Health
-Talents/health/Description=Increases base {#Flower/Attribute/HealthNoColon} by {0:perc}%.
+Talents/health/Name=生命
+Talents/health/Description=基礎 {#Flower/Attribute/HealthNoColon} 提升 {0:perc}%。
 
 Talents/health1/Name={#Talents/health/Name}
 Talents/health1/Description={#Talents/health/Description}
@@ -64,8 +64,8 @@ Talents/health7/Description={#Talents/health/Description}
 Talents/health8/Name={#Talents/health/Name}
 Talents/health8/Description={#Talents/health/Description}
 
-Talents/luck/Name=Luck
-Talents/luck/Description=Increases {#Flower/Attribute/LuckNoColon} by {0:tooltip}.<n/>Luck is used by specific petals to change their stats.
+Talents/luck/Name=運氣
+Talents/luck/Description={#Flower/Attribute/LuckNoColon} 提升 {0:tooltip} 點。<n/>更高的運氣可提升特定花瓣的數值。
 
 Talents/luck1/Name={#Talents/luck/Name}
 Talents/luck1/Description={#Talents/luck/Description}
@@ -79,8 +79,8 @@ Talents/luck3/Description={#Talents/luck/Description}
 Talents/luck4/Name={#Talents/luck/Name}
 Talents/luck4/Description={#Talents/luck/Description}
 
-Talents/medic/Name=Medic
-Talents/medic/Description=Increases {#Flower/Attribute/HealingNoColon} from your petals by {0:perc}%.<n/>Affects allies healed by your petals.
+Talents/medic/Name=治療
+Talents/medic/Description=所有治療類花瓣提升 {0:perc}% 的 {#Flower/Attribute/HealingNoColon}。<n/>包括對隊友的治療在內。
 
 Talents/medic1/Name={#Talents/medic/Name}
 Talents/medic1/Description={#Talents/medic/Description}
@@ -106,8 +106,8 @@ Talents/medic7/Description={#Talents/medic/Description}
 Talents/medic8/Name={#Talents/medic/Name}
 Talents/medic8/Description={#Talents/medic/Description}
 
-Talents/summoner/Name=Summoner
-Talents/summoner/Description=Increases {#Mob/Attribute/HealthNoColon} of summoned mobs by {0:perc}%.
+Talents/summoner/Name=召喚術
+Talents/summoner/Description=所有召喚物的 {#Mob/Attribute/HealthNoColon} 提高 {0:perc}%。
 
 Talents/summoner1/Name={#Talents/summoner/Name}
 Talents/summoner1/Description={#Talents/summoner/Description}
@@ -133,29 +133,29 @@ Talents/summoner7/Description={#Talents/summoner/Description}
 Talents/summoner8/Name={#Talents/summoner/Name}
 Talents/summoner8/Description={#Talents/summoner/Description}
 
-Talents/reload1/Name=Reload
-Talents/reload1/Description=Decreases the reload time for petals by -{0:perc}%.<n/>Decreases minimum reload time when swapping petals from {3}s to {2}s.
+Talents/reload1/Name=重載速度
+Talents/reload1/Description=所有花瓣的冷卻時間累積減少 {0:perc}%。<n/>同時替換花瓣所需時間減少至 {2}秒。
 
 Talents/reload2/Name=Reload
-Talents/reload2/Description=Decreases the reload time for petals from -{1:perc}% to -{0:perc}%.<n/>Decreases minimum reload time when swapping petals from {3}s to {2}s.
+Talents/reload2/Description=所有花瓣的冷卻時間累積減少 {0:perc}%。<n/>Decreases minimum reload time when swapping petals from {3}s to {2}s.
 
 Talents/reload3/Name=Reload
-Talents/reload3/Description=Decreases the reload time for petals from -{1:perc}% to -{0:perc}%.<n/>Decreases minimum reload time when swapping petals from {3}s to {2}s.
+Talents/reload3/Description=所有花瓣的冷卻時間累積減少 {0:perc}%。<n/>Decreases minimum reload time when swapping petals from {3}s to {2}s.
 
 Talents/reload4/Name=Reload
-Talents/reload4/Description=Decreases the reload time for petals from -{1:perc}% to -{0:perc}%.<n/>Decreases minimum reload time when swapping petals from {3}s to {2}s.
+Talents/reload4/Description=所有花瓣的冷卻時間累積減少 {0:perc}%。<n/>Decreases minimum reload time when swapping petals from {3}s to {2}s.
 
 Talents/reload5/Name=Reload
-Talents/reload5/Description=Decreases the reload time for petals from -{1:perc}% to -{0:perc}%.<n/>Decreases minimum reload time when swapping petals from {3}s to {2}s.
+Talents/reload5/Description=所有花瓣的冷卻時間累積減少 {0:perc}%。<n/>Decreases minimum reload time when swapping petals from {3}s to {2}s.
 
 Talents/reload6/Name=Reload
-Talents/reload6/Description=Decreases the reload time for petals from -{1:perc}% to -{0:perc}%.
+Talents/reload6/Description=所有花瓣的冷卻時間累積減少 {0:perc}%。
 
 Talents/reload7/Name=Reload
-Talents/reload7/Description=Decreases the reload time for petals from -{1:perc}% to -{0:perc}%.
+Talents/reload7/Description=所有花瓣的冷卻時間累積減少 {0:perc}%。
 
 Talents/reload8/Name=Reload
-Talents/reload8/Description=Decreases the reload time for petals from -{1:perc}% to -{0:perc}%.
+Talents/reload8/Description=所有花瓣的冷卻時間累積減少 {0:perc}%。
 
 Talents/body_damage/Name=Sharp Edges
 Talents/body_damage/Description=Increases {#Flower/Attribute/BodyDamageNoColon} by {0:perc}%.
