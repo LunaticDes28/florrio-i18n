@@ -1,0 +1,3 @@
+[submodule "en_US"]
+	path = en_US
+	url = git@github.com:Matheus28/florrio-i18n-en_US.git
