@@ -185,10 +185,10 @@ Talents/body_damage8/Name={#Talents/body_damage/Name}
 Talents/body_damage8/Description={#Talents/body_damage/Description}
 
 Talents/petal_rotation/Name=花瓣轉速
-Talents/petal_rotation/Description=花瓣的 {#Flower/Attribute/RotationSpeedNoColon} 從基礎 {1:tooltip} 提升至 {0:tooltip} 弧度每秒。
+Talents/petal_rotation/Description=
 
 Talents/petal_rotation1/Name={#Talents/petal_rotation/Name}
-Talents/petal_rotation1/Description=花瓣的 {#Flower/Attribute/RotationSpeedNoColon} 進一步提升至 {0:tooltip} 弧度每秒。
+Talents/petal_rotation1/Description=花瓣的 {#Flower/Attribute/RotationSpeedNoColon} 從基礎 {1:tooltip} 提升至 {0:tooltip} 弧度每秒。
 
 Talents/petal_rotation2/Name={#Talents/petal_rotation/Name}
 Talents/petal_rotation2/Description=花瓣的 {#Flower/Attribute/RotationSpeedNoColon} 進一步提升至 {0:tooltip} 弧度每秒。
