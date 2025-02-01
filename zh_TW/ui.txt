@@ -2,9 +2,9 @@ UI/Language/Name=中文（繁體）
 # These are the translators that worked on this translation. Separate with <n/>
 UI/Language/Credits=
 
-UI/Title/Loading=載入中...
-UI/Title/Connecting=連接中...
-UI/Title/LoggingIn=登錄中...
+UI/Title/Loading=載入中⋯⋯
+UI/Title/Connecting=連接中⋯⋯
+UI/Title/LoggingIn=登錄中⋯⋯
 UI/Title/Ready=開始
 UI/Title/GuestName=訪客
 UI/Title/GuestLimitation=你需要達到{0}級或連結帳戶才能修改用戶名稱。
