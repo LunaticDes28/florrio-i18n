@@ -1,0 +1,262 @@
+UI/Language/Name=中文（繁體）
+
+UI/Title/Loading=載入中...
+UI/Title/Connecting=連接中...
+UI/Title/LoggingIn=登錄中...
+UI/Title/Ready=開始
+UI/Title/GuestName=訪客
+UI/Title/GuestLimitation=你需要達到{0}級或連結帳戶才能修改用戶名稱。
+UI/Title/Name/Bad=你的帳戶名稱已被重置，請選擇一個新的名稱。
+UI/Title/Name/AlreadyTaken=該帳戶名稱已被使用。
+UI/Title/Name/InternalError=發生內部錯誤，請稍後再試。
+
+UI/Title/Biome={#UI/Title/Biome/{0}}
+UI/Title/Biome/0=園林
+UI/Title/Biome/1=沙漠
+UI/Title/Biome/2=海洋
+UI/Title/Biome/3=叢林
+UI/Title/Biome/4=亡界
+
+UI/Login/Title=帳戶
+UI/Login/PlayAsGuest=以訪客身分遊玩
+UI/Login/SignInApple=以Apple帳戶登錄
+UI/Login/SignInDiscord=以Discord帳戶登錄
+UI/Login/Logout=登出
+UI/Login/AccountID=帳戶號碼:
+UI/Login/Connecting=（連接中）
+UI/Login/GuestName=遊客
+UI/Login/GuestInfo=假如你正在使用訪客帳戶遊玩，<n/>你將在登錄之後銜接並保留現有進度。
+UI/Login/LinkInfo=登錄以在不同裝置使用同一帳戶。
+UI/Login/Linked=已登錄
+UI/Login/SupportPIN=支援代碼: {0}
+UI/Login/SupportPINHidden=支援代碼： (點擊顯示)
+UI/Login/SupportPINInstructions1=請記下支援代碼以防丟失帳戶
+UI/Login/SupportPINInstructions2=請勿將支援代碼分享給其他人
+UI/Login/Reminder=請登錄帳戶以保存遊玩進度
+
+UI/Social/Discord=加入我們的Discord社群!
+UI/Social/QQ=加入我們的QQ社群!
+
+UI/AbandonGame=退出遊戲
+UI/Reconnecting=失去連接，正在重連...
+
+UI/LevelBar/Level=等級 {0}
+UI/LevelBar/LevelLong=等級 {0} 花兒
+UI/LevelBar/XP={0}/{1} 經驗值
+
+UI/Scoreboard/Title={#UI/Scoreboard/Title/{0:1orN}}
+UI/Scoreboard/Title/1=存活花兒 (1)
+UI/Scoreboard/Title/N=存活花兒 ({0})
+UI/Scoreboard/HiddenName=玩家 #{0}
+
+UI/Chat/PromptTap=按此聊天
+UI/Chat/PromptClick=按此聊天
+UI/Chat/PromptKeyboardOrClick=按下 【確認鍵】 或按此聊天
+UI/Chat/Player/Block=封鎖
+UI/Chat/Player/ReportMessage=舉報信息
+
+UI/Flower/Level=等級 {0}
+
+UI/Death/Title=取你性命的是:
+UI/Death/NoSource=未知者
+UI/Death/Continue=繼續
+UI/Death/Close=關閉
+UI/Death/CollectedThisRun=本輪遊玩的收穫
+
+UI/AFKCheck/Title=掛機檢測
+UI/AFKCheck/Instructions=把這圓圈移到終點
+
+UI/Achievements/Title=成就
+UI/Achievements/Reward=獎勵
+UI/Achievements/RewardTP=天賦點 x{0}
+UI/Achievements/Done=已完成
+UI/Achievements/Track=追蹤
+UI/Achievements/TrackAutomatically=自動追蹤
+UI/Achievements/Hidden=？？？
+UI/Achievements/TotalProgress={0}/{1} 已完成
+
+UI/MobGallery/Title=生物圖鑑
+
+UI/Changelog/Title=更改日記
+UI/Changelog/Bottom=更遠古的更改未能盡錄
+
+UI/Inventory/Title=背包
+UI/Inventory/Stack=堆疊
+UI/Inventory/Instructions=將花瓣拖出以裝備
+UI/Inventory/Speed=速度
+
+UI/Guild/Title=公會
+UI/Guild/NoGuild=你仍未加入公會
+UI/Guild/Invite=你已被邀請至:
+UI/Guild/Invite/Button=接受
+UI/Guild/Invite/Expiration=此邀請即將失效
+UI/Guild/ChatSetting=聊天
+UI/Guild/SquadButton=小隊
+UI/Guild/KickButton=逐出
+UI/Guild/Leader=（會長）
+UI/Guild/Members={#UI/Guild/Members/{0:1orN}}
+UI/Guild/Members/1=成員數量 (1)
+UI/Guild/Members/N=成員數量 ({0})
+UI/Guild/LeaveButton=退出
+UI/Guild/Leave/Title=退出公會
+UI/Guild/Leave/Instructions=你確定嗎？
+UI/Guild/Leave/Confirm=退出
+UI/Guild/Leave/Cancel=取消
+
+UI/Squad/Title=小隊
+UI/Squad/Error/NotAllowed=此模式不允許玩家組成小隊
+UI/Squad/Error/Spam=請稍等再試
+UI/Squad/Error/DoesNotExist=你輸入的小隊不存在
+UI/Squad/Error/CannotJoin=你不能加入這小隊
+UI/Squad/Error/LevelDifference=你的等級不符合小隊的要求
+UI/Squad/Error/Full=你輸入的小隊已滿員
+
+UI/Shop/Title=商店
+UI/Shop/Button=商店
+UI/Shop/Instructions=是日商品：
+UI/Shop/TimeLeft=新品將於 {0:timeLeft} 內上架
+UI/Shop/Lock=鎖定
+UI/Shop/LockedChanged=商品將於解鎖後立即更換。
+UI/Shop/LockedNoChange=商品在鎖定期間不會更換。
+UI/Shop/StarsHelp1=你可以通過完成挑戰獲取星星, 或者
+UI/Shop/StarsHelp2=或者按下右方數字進行購買。
+UI/Shop/MustLink1=欲進行遊戲內購買, 你必先
+UI/Shop/MustLink2=以Apple或Discord登錄至帳戶。
+UI/Shop/MustLinkCancel=取消
+UI/Shop/BuyStars/Instructions=若然你對遊戲內購買有任何問題，<n/>請聯絡我們的支付處理商<n/>support@xsolla.com 或在 xsolla.com 進行線上對話.
+UI/Shop/BuyStars/Extra=我嫌錢太多了
+UI/Shop/BuyStars/Cancel=取消
+UI/Shop/BuyPetal/Title=確認
+UI/Shop/BuyPetal/Instructions=你確定要進行購買？<n/><c val="{#Colors/danger}">已購買的花瓣恕不退款</c>
+UI/Shop/BuyPetal/Cancel=取消
+UI/Shop/MagicPetalError/Title=錯誤
+UI/Shop/MagicPetalError/Instructions=你得先擁有{#Petals/{0}/FullName}<n/>才能購買附靈的花瓣。
+UI/Shop/MagicPetalError/Cancel=取消
+UI/Shop/Loyalty/Title=感謝！
+UI/Shop/Loyalty/Instructions=爲感謝你的支持，<n/>現誠免費贈送一定數量的星星。<n/><n/>贈送的價值將等同你一直以來投入本遊戲的金錢，<n/>甚至還要更多。
+UI/Shop/Price/USD=${0}
+
+UI/DailyChallenge/Title=挑戰
+UI/DailyChallenge/Button=挑戰
+UI/DailyChallenge/Instructions=擊敗以下目標:
+UI/DailyChallenge/TimeLeft=新挑戰將於 {0:timeLeft} 內推出
+UI/DailyChallenge/Claimed=已領取
+UI/DailyChallenge/SupportersOnly=遊戲支持者限定
+
+UI/Petal/Name={#Petals/{0:base}/Name}
+UI/Petal/SortName={#Petals/{0:base}/Name}
+UI/Petal/FullName={#Petals/{0:base}/FullName}
+UI/Petal/Description={#Petals/{0:base}/Description}
+UI/Petal/Rarity={#Rarities/{0:rarity}/Name}
+UI/Petal/Reload1={0}秒
+UI/Petal/Reload2={0}秒 + {1}秒
+
+UI/Mob/Name={#Mobs/{0:base}/Name}
+UI/Mob/SortName={#Mobs/{0:base}/Name}
+UI/Mob/Description={#Mobs/{0:base}/Description}
+UI/Mob/Rarity={#Rarities/{0:rarity}/Name}
+
+UI/Map/Name={#Maps/{0}/Name}
+
+UI/Achievements/Name={#Achievements/{0}/Name:1-}
+UI/Achievements/SortName={#Achievements/{0}/Name:1-}
+UI/Achievements/Description={#Achievements/{0}/Description:1-}
+UI/Achievements/ExtraDescription={#Achievements/{0}/ExtraDescription:1-}
+
+UI/Talent/Title=Talents
+UI/Talent/Name={#Talents/{0}/Name:1-}
+UI/Talent/Description={#Talents/{0}/Description:1-}
+UI/Talent/Rarity={#Rarities/{0}/Name}
+UI/Talent/TP=天賦點
+UI/Talent/Tooltip=通過提升等級獲得更多天賦點
+UI/Talent/Reset=重置
+
+UI/Craft/Title=合成
+UI/Craft/Button=合成
+UI/Craft/Chance={0:perc}% 成功機率
+UI/Craft/UnknownChance=?% 成功機率
+UI/Craft/CombineInstructions=組合{0}個相同的花瓣來嘗試升級
+UI/Craft/FailureInstructions=失敗將會消耗 {0}-{1} 個花瓣
+
+UI/Absorb/Title=回收
+UI/Absorb/Button=回收
+UI/Absorb/Instructions=回收花瓣以換取經驗值<n/><c val="{#Colors/danger}">警告：所選的花瓣會被消耗</c>
+
+UI/CoinCraft/Title=交易
+UI/CoinCraft/Button=交易
+UI/CoinCraft/Instructions=你可以用任何花瓣換入一枚相同級別的金幣花瓣
+UI/CoinCraft/Delay=你需等待 {0:timeLeft} 才能進行下一次交易
+
+UI/OracleCraft/Title=Oracle
+UI/OracleCraft/Button=Craft
+UI/OracleCraft/Instructions=The Oracle will guarantee a craft... for the right price.
+UI/OracleCraft/Delay=You'll be able to craft again {0:timeLeft}
+
+UI/Plinko/Title=Plinko
+UI/Plinko/Auto=Auto
+
+UI/UniqueCraft/Title=Forge
+UI/UniqueCraft/Button=Forge
+UI/UniqueCraft/Instructions=Unique petals will last until another player forges the same petal.<n/>When that happens, you will receive your Super petals back.<n/>The cost increases each time that petal is forged.
+UI/UniqueCraft/NoSupers=You do not have any Super petals to attempt this.
+
+UI/Death/Poison=Poison
+
+UI/Settings/Title=Settings
+UI/Settings/Game=Game
+UI/Settings/Graphics=Graphics
+UI/Settings/Controls=Controls
+UI/Settings/Credits=Credits
+
+UI/Settings/Language=Language
+UI/Settings/Language/Warning=NOTE: will only take effect after game is restarted
+UI/Settings/Language/Automatic=Automatic
+
+UI/Settings/Realm=Realm
+UI/Settings/Realms={#UI/Settings/Realms/{0}}
+UI/Settings/Realms/0=Automatic
+UI/Settings/Realms/1=Juliett (US)
+UI/Settings/Realms/2=Romeo (EU)
+UI/Settings/Realms/3=Sierra (ASIA)
+
+UI/Settings/Chat=Chat
+UI/Settings/ChatWhispers=Chat Whispers
+
+UI/Settings/AutoJoinSquads=Auto-join squads
+
+UI/Settings/HideOtherPetals=Hide other petals
+
+UI/Settings/EquipDrops=Equip drops
+
+UI/Settings/Quality=Quality
+UI/Settings/Quality/Low=Low
+UI/Settings/Quality/Medium=Medium
+UI/Settings/Quality/High=High
+
+UI/Settings/ShowDamageNumbers=Show damage numbers
+
+UI/Settings/ScreenShake=Screen shake
+
+UI/Settings/LiveIcons=Live icons
+
+UI/Settings/TouchControls=Touch controls
+
+UI/Settings/KeyboardMovement=Keyboard movement
+
+UI/Settings/MovementHelper=Movement helper
+
+UI/Settings/FixedJoystick=Fixed joystick
+
+UI/Settings/AutoSaveLoadout=Auto-save loadout
+
+UI/Settings/PrivacyPolicy=Privacy Policy
+UI/Settings/TermsOfService=Terms of Service
+
+UI/Credits/MadeBy=Made by {0}
+UI/Credits/SomeIcons=Some icons from {0}
+UI/Credits/SomeTiles=Some tiles from {0}
+UI/Credits/SpecialThanks=Special Thanks
+
+# The little arrows around dead flowers
+UI/HelperText/Guild=Guild
+UI/HelperText/Squad=Squad
