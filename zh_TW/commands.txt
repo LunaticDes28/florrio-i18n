@@ -7,7 +7,7 @@ Chat/Command/guild/Args=<訊息>
 Chat/Command/guild/Description=向公會成員發送訊息
 
 Chat/Command/guild-create/Args=<名稱> <標籤>
-Chat/Command/guild-create/Description=創立新的公會。名稱長度限於3-13內，標籤程度限於2-4內
+Chat/Command/guild-create/Description=創立新的公會。名稱長度限於3-13內，標籤長度限於2-4內
 
 Chat/Command/guild-invite/Args=<名稱>
 Chat/Command/guild-invite/Description=邀請附近的玩家加入公會，僅限會長執行
