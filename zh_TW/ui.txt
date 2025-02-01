@@ -1,4 +1,6 @@
 UI/Language/Name=中文（繁體）
+# These are the translators that worked on this translation. Separate with <n/>
+UI/Language/Credits=
 
 UI/Title/Loading=載入中...
 UI/Title/Connecting=連接中...
@@ -82,7 +84,7 @@ UI/Changelog/Bottom=更遠古的更改未能盡錄
 
 UI/Inventory/Title=背包
 UI/Inventory/Stack=堆疊
-UI/Inventory/Instructions=將花瓣拖出以裝備
+UI/Inventory/Instructions=將欲裝備的花瓣移出背包
 UI/Inventory/Speed=速度
 
 UI/Guild/Title=公會
@@ -118,22 +120,22 @@ UI/Shop/TimeLeft=新品將於 {0:timeLeft} 內上架
 UI/Shop/Lock=鎖定
 UI/Shop/LockedChanged=商品將於解鎖後立即更換。
 UI/Shop/LockedNoChange=商品在鎖定期間不會更換。
-UI/Shop/StarsHelp1=你可以通過完成挑戰獲取星星, 或者
-UI/Shop/StarsHelp2=或者按下右方數字進行購買。
+UI/Shop/StarsHelp1=你可以通過完成挑戰獲取星星，
+UI/Shop/StarsHelp2=或者按下右方星星圖示進行購買。
 UI/Shop/MustLink1=欲進行遊戲內購買, 你必先
 UI/Shop/MustLink2=以Apple或Discord登錄至帳戶。
 UI/Shop/MustLinkCancel=取消
-UI/Shop/BuyStars/Instructions=若然你對遊戲內購買有任何問題，<n/>請聯絡我們的支付處理商<n/>support@xsolla.com 或在 xsolla.com 進行線上對話.
+UI/Shop/BuyStars/Instructions=若然你對遊戲內購買有任何問題，<n/>請聯絡我們的支付處理商support@xsolla.com<n/>或在 xsolla.com 進行線上對話。
 UI/Shop/BuyStars/Extra=我嫌錢太多了
 UI/Shop/BuyStars/Cancel=取消
 UI/Shop/BuyPetal/Title=確認
-UI/Shop/BuyPetal/Instructions=你確定要進行購買？<n/><c val="{#Colors/danger}">已購買的花瓣恕不退款</c>
+UI/Shop/BuyPetal/Instructions=你確定要進行購買？<n/><c val="{#Colors/danger}">已購買的花瓣恕不能退款</c>
 UI/Shop/BuyPetal/Cancel=取消
 UI/Shop/MagicPetalError/Title=錯誤
 UI/Shop/MagicPetalError/Instructions=你得先擁有{#Petals/{0}/FullName}<n/>才能購買附靈的花瓣。
 UI/Shop/MagicPetalError/Cancel=取消
 UI/Shop/Loyalty/Title=感謝！
-UI/Shop/Loyalty/Instructions=爲感謝你的支持，<n/>現誠免費贈送一定數量的星星。<n/><n/>贈送的價值將等同你一直以來投入本遊戲的金錢，<n/>甚至還要更多。
+UI/Shop/Loyalty/Instructions=爲感謝你的支持，<n/>現誠依你過往投入本遊戲的金額，免費回饋加倍數量的星星。
 UI/Shop/Price/USD=${0}
 
 UI/DailyChallenge/Title=挑戰
@@ -163,7 +165,7 @@ UI/Achievements/SortName={#Achievements/{0}/Name:1-}
 UI/Achievements/Description={#Achievements/{0}/Description:1-}
 UI/Achievements/ExtraDescription={#Achievements/{0}/ExtraDescription:1-}
 
-UI/Talent/Title=Talents
+UI/Talent/Title=天賦
 UI/Talent/Name={#Talents/{0}/Name:1-}
 UI/Talent/Description={#Talents/{0}/Description:1-}
 UI/Talent/Rarity={#Rarities/{0}/Name}
@@ -187,76 +189,77 @@ UI/CoinCraft/Button=交易
 UI/CoinCraft/Instructions=你可以用任何花瓣換入一枚相同級別的金幣花瓣
 UI/CoinCraft/Delay=你需等待 {0:timeLeft} 才能進行下一次交易
 
-UI/OracleCraft/Title=Oracle
-UI/OracleCraft/Button=Craft
-UI/OracleCraft/Instructions=The Oracle will guarantee a craft... for the right price.
-UI/OracleCraft/Delay=You'll be able to craft again {0:timeLeft}
+UI/OracleCraft/Title=祭司
+UI/OracleCraft/Button=獻祭
+UI/OracleCraft/Instructions=獻出適當的代價，換取一次命定的合成。
+UI/OracleCraft/Delay=你需等待 {0:timeLeft} 才能進行下一次獻祭
 
-UI/Plinko/Title=Plinko
-UI/Plinko/Auto=Auto
+UI/Plinko/Title=彈珠機
+UI/Plinko/Auto=自動
 
-UI/UniqueCraft/Title=Forge
-UI/UniqueCraft/Button=Forge
-UI/UniqueCraft/Instructions=Unique petals will last until another player forges the same petal.<n/>When that happens, you will receive your Super petals back.<n/>The cost increases each time that petal is forged.
-UI/UniqueCraft/NoSupers=You do not have any Super petals to attempt this.
+UI/UniqueCraft/Title=鍛造
+UI/UniqueCraft/Button=鍛造
+UI/UniqueCraft/Instructions=每一個<c val="{#Colors/unique}">無上</c>級別的花瓣都是獨一無二的。<n/>當你所持有的<c val="{#Colors/unique}">無上</c>花瓣被其他玩家鍛造出時，你將失去該花瓣，並返還當初鍛造時所花費的<c val="{#Colors/super}">超絕</c>花瓣。<n/>同一花瓣的鍛造成本將隨每次鍛造而提升。
+UI/UniqueCraft/NoSupers=你沒有任何<c val="{#Colors/super}">超絕</c>級別的花瓣可供進行鍛造。
 
-UI/Death/Poison=Poison
+UI/Death/Poison=淬毒
 
-UI/Settings/Title=Settings
-UI/Settings/Game=Game
-UI/Settings/Graphics=Graphics
-UI/Settings/Controls=Controls
-UI/Settings/Credits=Credits
+UI/Settings/Title=設定
+UI/Settings/Game=遊玩
+UI/Settings/Graphics=圖像
+UI/Settings/Controls=控制
+UI/Settings/Credits=鳴謝
 
-UI/Settings/Language=Language
-UI/Settings/Language/Warning=NOTE: will only take effect after game is restarted
-UI/Settings/Language/Automatic=Automatic
+UI/Settings/Language=語言
+UI/Settings/Language/Warning=注意：語言設定只在重啟遊戲後才生效
+UI/Settings/Language/Automatic=自動
 
-UI/Settings/Realm=Realm
+UI/Settings/Realm=伺服器
 UI/Settings/Realms={#UI/Settings/Realms/{0}}
-UI/Settings/Realms/0=Automatic
-UI/Settings/Realms/1=Juliett (US)
-UI/Settings/Realms/2=Romeo (EU)
-UI/Settings/Realms/3=Sierra (ASIA)
+UI/Settings/Realms/0=自動選擇
+UI/Settings/Realms/1=茱麗葉 (美洲)
+UI/Settings/Realms/2=羅密歐 (歐洲)
+UI/Settings/Realms/3=西耶拉 (亞洲)
 
-UI/Settings/Chat=Chat
-UI/Settings/ChatWhispers=Chat Whispers
+UI/Settings/Chat=聊天
+UI/Settings/ChatWhispers=密語
 
-UI/Settings/AutoJoinSquads=Auto-join squads
+UI/Settings/AutoJoinSquads=自動匹配小隊
 
-UI/Settings/HideOtherPetals=Hide other petals
+UI/Settings/HideOtherPetals=隱藏其他玩家的花瓣
 
-UI/Settings/EquipDrops=Equip drops
+UI/Settings/EquipDrops=自動裝上掉落物
 
-UI/Settings/Quality=Quality
-UI/Settings/Quality/Low=Low
-UI/Settings/Quality/Medium=Medium
-UI/Settings/Quality/High=High
+UI/Settings/Quality=質素
+UI/Settings/Quality/Low=低
+UI/Settings/Quality/Medium=中
+UI/Settings/Quality/High=高
 
-UI/Settings/ShowDamageNumbers=Show damage numbers
+UI/Settings/ShowDamageNumbers=顯示傷害數值
 
-UI/Settings/ScreenShake=Screen shake
+UI/Settings/ScreenShake=屏幕震動效果
 
-UI/Settings/LiveIcons=Live icons
+UI/Settings/LiveIcons=實時花瓣圖示
 
-UI/Settings/TouchControls=Touch controls
+UI/Settings/TouchControls=觸屏控制
 
-UI/Settings/KeyboardMovement=Keyboard movement
+UI/Settings/KeyboardMovement=鍵盤控制
 
-UI/Settings/MovementHelper=Movement helper
+UI/Settings/MovementHelper=鼠標移動輔助
 
-UI/Settings/FixedJoystick=Fixed joystick
+UI/Settings/FixedJoystick=固定搖桿
 
-UI/Settings/AutoSaveLoadout=Auto-save loadout
+UI/Settings/AutoSaveLoadout=自動儲存裝備配置
 
-UI/Settings/PrivacyPolicy=Privacy Policy
-UI/Settings/TermsOfService=Terms of Service
+UI/Settings/PrivacyPolicy=隱私政策
+UI/Settings/TermsOfService=服務條款
 
-UI/Credits/MadeBy=Made by {0}
-UI/Credits/SomeIcons=Some icons from {0}
-UI/Credits/SomeTiles=Some tiles from {0}
-UI/Credits/SpecialThanks=Special Thanks
+UI/Credits/MadeBy=由 {0} 製作
+UI/Credits/SomeIcons=部分圖示來自 {0}
+UI/Credits/SomeTiles=部分背景來自 {0}
+UI/Credits/SpecialThanks=特別鳴謝
+UI/Credits/Translators=編譯者
 
 # The little arrows around dead flowers
-UI/HelperText/Guild=Guild
-UI/HelperText/Squad=Squad
+UI/HelperText/Guild=公會
+UI/HelperText/Squad=小隊
