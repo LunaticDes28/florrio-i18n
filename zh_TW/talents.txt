@@ -214,10 +214,10 @@ Talents/reach2/Description={#Talents/reach/Description}
 Talents/reach3/Name={#Talents/reach/Name}
 Talents/reach3/Description={#Talents/reach/Description}
 
-Talents/second_chance1/Name=續命
+Talents/second_chance1/Name=續命術
 Talents/second_chance1/Description=受到致命傷害後 {0:tooltip}秒 內保持不死。 觸發冷卻爲 {1:tooltip}秒。
 
-Talents/second_chance2/Name=續命
+Talents/second_chance2/Name=續命術
 Talents/second_chance2/Description=不死時長提升至 {0:tooltip}秒，同時觸發冷卻減低至 {1:tooltip}秒。
 
 Talents/magnetism/Name=磁場
