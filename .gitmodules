@@ -1,3 +1,6 @@
 [submodule "en_US"]
 	path = en_US
 	url = git@github.com:Matheus28/florrio-i18n-en_US.git
+[submodule "zh_CN"]
+	path = zh_CN
+	url = git@github.com:Matheus28/florrio-i18n-zh_CN.git
