@@ -69,7 +69,7 @@ Petal/Attribute/Shield=<c val="{#Colors/generic}">製甲:</c> {0:tooltip}
 Petal/Attribute/BodyDamage=<c val="{#Colors/damage}">本體傷害:</c> +{0:tooltip}
 Petal/Attribute/Period=<c val="{#Colors/generic}">週期:</c> {0:tooltipTime}
 Petal/Attribute/FlowerRadius=<c val="{#Colors/generic}">本體半徑:</c> +{0:tooltip}
-Petal/Attribute/DamageHealed=<c val="{#Colors/heal}">治療轉換:</c> {0:perc}% <c val="{#Colors/damage}">所造傷害</c>
+Petal/Attribute/DamageHealed=<c val="{#Colors/heal}">治療轉換:</c> {0:perc}% 所造<c val="{#Colors/damage}">傷害</c>
 Petal/Attribute/AttackRange=<c val="{#Colors/generic}">攻擊範圍:</c> +{0:tooltip}
 Petal/Attribute/Spawn={#Petal/Attribute/Spawn{0:1orN}}
 Petal/Attribute/Spawn1=<c val="{#Colors/generic}">召喚:</c> {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
@@ -97,7 +97,7 @@ Petal/Attribute/CorruptsFlowersAround=<c val="{#Colors/generic}">能使附近花
 Petal/Attribute/CannotBeUnequipped=<c val="{#Colors/generic}">不能卸下。</c>
 Petal/Attribute/PetalLostOnDeath=<c val="{#Colors/danger}">在本體死亡時消耗。</c>
 Petal/Attribute/CannotBeUnequippedWhileAlive=<c val="{#Colors/generic}">在本體存活時不能卸下。</c>
-Petal/Attribute/Mana=<c val="{#Colors/mana}">靈力:</c> {0:tooltip}
+Petal/Attribute/Mana=<c val="{#Colors/mana}">煉靈:</c> {0:tooltip}
 Petal/Attribute/ManaPerSecond=<c val="{#Colors/mana}">煉靈:</c> {0:tooltip} 每秒
 Petal/Attribute/BaseMaxMana=<c val="{#Colors/mana}">基礎靈力上限:</c> {0:tooltip}
 Petal/Attribute/MaxMana=<c val="{#Colors/mana}">靈力上限:</c> +{0:tooltip}
