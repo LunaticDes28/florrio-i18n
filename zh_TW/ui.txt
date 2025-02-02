@@ -8,6 +8,12 @@ UI/Title/LoggingIn=登錄中⋯⋯
 UI/Title/Ready=開始
 UI/Title/GuestName=訪客
 UI/Title/GuestLimitation=你需要達到{0}級或連結帳戶才能修改用戶名稱。
+UI/Title/Name/Title=這朵活潑花兒的名字是⋯⋯
+UI/Title/Name/Rules1=帳戶名稱只能由字母、數字或{2}組合而成，並且長度應在{0}至{1}之間。
+UI/Title/Name/Rules2=必須包含至少 {0} 個字母或數字。
+UI/Title/Name/Rules3=不可包含連續的 {0} 個字符。
+UI/Title/Name/Rules4=帳戶名稱將永久使用並不可更改。
+UI/Title/Name/Button=確認
 UI/Title/Name/Bad=你的帳戶名稱已被重置，請選擇一個新的名稱。
 UI/Title/Name/AlreadyTaken=該帳戶名稱已被使用。
 UI/Title/Name/InternalError=發生內部錯誤，請稍後再試。
@@ -56,6 +62,9 @@ UI/Chat/PromptClick=按此聊天
 UI/Chat/PromptKeyboardOrClick=按下 【確認鍵】 或按此聊天
 UI/Chat/Player/Block=封鎖
 UI/Chat/Player/ReportMessage=舉報信息
+UI/Chat/Player/Whisper=密語
+UI/Chat/Player/InviteToSquad=邀請至小隊
+UI/Chat/Player/InviteToGuild=邀請至公會
 
 UI/Flower/Level=等級 {0}
 
